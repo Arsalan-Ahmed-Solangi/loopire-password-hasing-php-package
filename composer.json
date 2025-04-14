@@ -1,0 +1,19 @@
+{
+  "name": "loopire/password-helper",
+  "description": "Custom password hasing and comparing password using custom secret key",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Loopire\\PasswordHelper\\": "src/"
+    }
+  },
+  "minimum-stability": "stable",
+  "require": {},
+  "authors": [
+    {
+      "name": "Arsalan Ahmed",
+      "email": "ahmedsolangi347@gmail.com"
+    }
+  ]
+}
