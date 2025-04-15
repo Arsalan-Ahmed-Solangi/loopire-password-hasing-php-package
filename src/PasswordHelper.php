@@ -1,4 +1,7 @@
 <?php
+
+namespace Loopire\PasswordHelper;
+
 class PasswordHelper
 {
     private $iterations;
